@@ -79,6 +79,15 @@ export async function sendMessage(history: { role: string; content: string }[]) 
     - Name: ${dbUser.name}
     - Current Weight: ${lastWeightLog?.weight || dbUser.startWeight} kg
     - Target Weight: ${dbUser.targetWeight} kg
+    
+    Clinical/Cardiac Profile:
+    - Protocol Method: ${dbUser.protocolMethod || 'N/A'}
+    - Resting HR: ${dbUser.restingHr || 'N/A'} bpm
+    - Max HR: ${dbUser.maxHr || 'N/A'} bpm
+    - VT1 (Limiar 1): ${dbUser.ft1Bpm || 'N/A'} bpm
+    - VT2 (Limiar 2): ${dbUser.ft2Bpm || 'N/A'} bpm
+    - Peak METs: ${dbUser.metPeak || 'N/A'}
+    - Peak VO2: ${dbUser.vo2Peak || 'N/A'} ml/kg/min
     - Recent Meals:
     ${recentMeals.map(m => `  - [${m.type}] ${m.qualityScore}/10 score: ${m.aiFeedback} (${m.calories}kcal)`).join("\n")}
     - Recent Workouts:
