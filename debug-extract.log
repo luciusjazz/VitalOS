@@ -1,0 +1,20 @@
+Starting debug script
+pdf-parse required successfully
+Type of pdf: function
+Target file: c:\Users\olive\OneDrive\Documentos\Aplicativo de saúde\papers\paper_guidelines.pdf
+File exists
+File size: 222869
+File read into buffer. Length: 222869
+PDF processed successfully
+Text length: 40715
+Text written to extracted-text-debug.txt
+Starting debug script
+pdf-parse required successfully
+Type of pdf: function
+Target file: c:\Users\olive\OneDrive\Documentos\Aplicativo de saúde\papers\paper_whatsapp.pdf
+File exists
+File size: 2132976
+File read into buffer. Length: 2132976
+PDF processed successfully
+Text length: 43324
+Text written to extracted-text-debug.txt

@@ -1,0 +1,1157 @@
+
+
+Milani JGPO, et al. BMJ Open Sp Ex Med 2023;9:e001601. doi:10.1136/bmjsem-2023-001601
+  1
+Open access Original research
+Exercise intensity domains determined 
+by heart rate at the ventilatory 
+thresholds in patients with 
+cardiovascular disease: new insights 
+and comparisons to cardiovascular 
+rehabilitation prescription 
+recommendations
+Juliana Goulart Prata Oliveira Milani    ,
+1,2
+ Mauricio Milani    ,
+1,2
+ 
+Graziella França Bernardelli Cipriano    ,
+1,3
+ Dominique Hansen    ,
+2,4
+ 
+Gerson Cipriano Junior  
+  
+1
+To cite: Milani JGPO, 
+Milani M, Cipriano GFB, et al.  
+Exercise intensity domains 
+determined by heart rate at 
+the ventilatory thresholds in 
+patients with cardiovascular 
+disease: new insights and 
+comparisons to cardiovascular 
+rehabilitation prescription 
+recommendations. BMJ Open 
+Sport & Exercise Medicine 
+2023;9:e001601. doi:10.1136/
+bmjsem-2023-001601
+Accepted 16 July 2023
+1
+Graduate Programme in Health 
+Sciences and Technologies, 
+University of Brasilia, Brasilia, 
+Brazil
+2
+REVAL/BIOMED, Hasselt 
+University, Hasselt, Belgium
+3
+Rehabilitation Sciences 
+Programme, University of 
+Brasilia, Brasilia, Brazil
+4
+Department of Cardiology, Heart 
+Centre Hasselt, Jessa Hospital, 
+Hasselt, Belgium
+Correspondence to
+Dr Juliana Goulart Prata Oliveira 
+Milani;  
+ juliana@ medicinadoexercicio. 
+com
+© Author(s) (or their 
+employer(s)) 2023. Re- use 
+permitted under CC BY- NC. No 
+commercial re- use. See rights 
+and permissions. Published by 
+BMJ.
+ABSTRACT
+Objectives To compare the elicited exercise 
+responses at ventilatory thresholds (VTs: VT1 and 
+VT2) identified by cardiopulmonary exercise testing 
+(CPET) in patients with cardiovascular disease 
+(CVD) with the guideline- directed exercise intensity 
+domains; to propose equations to predict heart 
+rate (HR) at VTs; and to compare the accuracy of 
+prescription methods.
+Methods A cross- sectional study was performed with 972 
+maximal treadmill CPET on patients with CVD. First, VTs were 
+identified and compared with guideline- directed exercise 
+intensity domains. Second, multivariate linear regression 
+analyses were performed to generate prediction equations for 
+HR at VTs. Finally, the accuracy of prescription methods was 
+assessed by the mean absolute percentage error (MAPE).
+Results Significant dispersions of individual 
+responses were found for VTs, with the same relative 
+intensity of exercise corresponding to different 
+guideline- directed exercise intensity domains. A 
+mathematical error inherent to methods based on 
+percentages of peak effort was identified, which may 
+help to explain the dispersions. Tailored multivariable 
+equations yielded r
+2
+ of 0.726 for VT1 and 0.901 for 
+VT2. MAPE for the novel VT1 equation was 6.0%, 
+lower than that for guideline- based prescription 
+methods (9.5 to 23.8%). MAPE for the novel VT2 
+equation was 4.3%, lower than guideline- based 
+methods (5.8%–19.3%).
+Conclusion The guideline- based exercise intensity 
+domains for cardiovascular rehabilitation revealed 
+inconsistencies and heterogeneity, which limits the 
+currently used methods. New multivariable equations 
+for patients with CVD were developed and demonstrated 
+better accuracy, indicating that this methodology may be a 
+valid alternative when CPET is unavailable.
+WHAT IS ALREADY KNOWN ON THIS TOPIC
+ ⇒Exercise intensity prescription guided by cardio-
+pulmonary  exercise  testing  (CPET)  is  the  gold-  
+standard method.
+ ⇒Guideline-  based  exercise  intensity  domains  for  
+cardiovascular  rehabilitation  revealed  marked  
+inconsistencies    and    heterogeneity,    limiting    
+the   heart   rate   ‘range-   based’   current   meth-
+ods  employed,  commonly  used  when  CPET  is  
+unavailable.
+WHAT THIS STUDY ADDS
+ ⇒A  mathematical  error  is  inherent  to  methods  
+based  on  simple  percentages  of  peak  effort,  
+which  is  minimised  using  multivariable  equa-
+tions  derived  from  parameters  that  can  be  ob-
+tained in an ergometry test.
+ ⇒The  novel  equations  tailored  for  patients  with  
+cardiovascular  diseases  (CVDs)  demonstrated  
+superior  accuracy  (mean  absolute  percentage  
+error  of  6.0%  for  the  first  ventilatory  threshold  
+and 4.3% for the second ventilatory threshold), 
+indicating  that  these  equations  may  be  a  valid  
+alternative when CPET is unavailable.
+HOW THIS STUDY MIGHT AFFECT RESEARCH, 
+PRACTICE OR POLICY
+ ⇒This study offers a new clinical perspective when 
+CPET is not available. We recommend using the 
+multivariable equations tailored to patients with 
+CVD  rather  than  the  classic  ‘range-  based’  pre-
+scription that uses a percentage of peak effort. 
+The equations presented in this study can be an 
+interesting  alternative,  as  demonstrated  by  the  
+high r² values and the better forecasting accura-
+cy compared with other indirect methods.
+
+2
+Milani JGPO, et al. BMJ Open Sp Ex Med 2023;9:e001601. doi:10.1136/bmjsem-2023-001601
+Open access
+INTRODUCTION
+Cardiovascular   rehabilitation   (CR)   for   patients   with   
+cardiovascular disease (CVD) is a consensus among inter-
+national  guidelines,
+1–5
+  considering  the  reductions  in  
+morbidity and mortality rates.
+5–10
+ Hence, properly deter-
+mining  the  exercise  intensity  prescription  for  patients  
+with CVD is a cornerstone of an efficient and safe CR.
+11 12
+ 
+Ideally, exercise intensity prescription is established by an 
+individualised functional capacity assessment, and cardio-
+pulmonary exercise testing (CPET) is the gold- standard 
+method.
+2  3  11  13  14
+  Indeed,  evidence  has  demonstrated  
+that  patients  with  CVD  have  heterogeneous  responses  
+to  incremental  exercise,  with  differences  in  the  first  
+and   second   ventilatory   thresholds   (VT1   and   VT2)   
+when expressed in oxygen uptake (VO
+2
+) and heart rate 
+(HR).
+3  15
+  In  addition,  studies  have  documented  great  
+variability  in  individual  metabolic  responses  when  exer-
+cise intensity is performed in relation to percentages of 
+peak effort.
+16–18
+ This occurs because prescriptions based 
+on peak exercise percentages assume all participants will 
+experience  similar  physiological  responses  at  the  same  
+relative intensity, which is not necessarily true.
+18 19
+ Thus, 
+a  ‘threshold-  based’  prescription  rather  than  a  ‘range-  
+based’ approach is recommended to improve the benefits 
+of CR.
+3 11 14
+When   CPET   is   unavailable,   CR   guidelines   recom-
+mend an aerobic exercise prescription based on indices 
+of peak effort, including percentages of peak workload, 
+peak  HR  (%HR
+peak
+)  or  HR  reserve  (%HRR)  according  
+to  responses  during  an  ergometry  test.  However,  recent  
+evidence  has  shown  the  need  to  carefully  revise  these  
+methods currently applied in CR due to internal incon-
+sistencies and disagreements.
+11 16 17
+ Hansen et al
+16
+ studied 
+272 patients with CVD assessed by CPET on a cycle ergom-
+eter. They revealed that the same relative level of exercise 
+elicited  different  intensity  domains,  with  a  considerable  
+interindividual variation ranging from low to hard inten-
+sity. Pymer et al
+17
+ found similar results in a study involving 
+112  patients,  in  which  inaccuracy  was  found  in  many  
+patients  when  HR  corresponding  to  VT1  was  compared  
+with HR- based exercise prescription.
+Considering  these  significant  discrepancies  in  indi-
+vidual  responses  to  effort  intensity  in  the  ‘range-  based  
+methods’ recommended by CR guidelines,
+2 11 20
+ and the 
+lack  of  consistent  guidance  regarding  exercise  prescrip-
+tions for patients with CVD, it is essential to explore this 
+subject  more  deeply,  compare  different  international  
+recommendations, seek solutions to the observed incon-
+sistencies and develop new methods.
+Thus,  our  study  aimed  to  compare  elicited  exercise  
+responses at VT1 and VT2 (expressed as %HR
+peak
+, %HRR 
+and  percentage  of  peak  VO
+2
+  (%VO
+2peak
+))  to  Brazilian‚
+2
+ 
+European
+11
+   and   American
+20
+   guideline-   based   exercise   
+intensity  domains  for  CR.  A  further  aim  was  to  propose  
+equations to improve HR- based prescription parameters 
+tailored  to  patients  with  CVD  using  variables  available  
+in  an  ergometry  test.  We  also  compared  the  accuracy  
+of   guideline-   based   prescriptions'   moderate   intensity   
+domains according to %HR
+peak
+ and the novel equations.
+METHODS
+Population and design
+A  single-  centre  retrospective  cross-  sectional  study  was  
+conducted  involving  the  records  of  patients  with  CVD  
+assessed   by   CPET   in   the   Brazilian   Midwest   region   
+between  January  2011  and  December  2021.  Patients  
+were  primarily  referred  to  CPET  for  cardiovascular  risk  
+stratification  and  exercise  prescription.  The  tests  were  
+supervised  and  interpreted  according  to  international  
+recommendations.
+14 20–22
+The inclusion criteria were treadmill CPETs performed 
+by patients with CVD aged ≥20 years and the absence of 
+pulmonary, neurological or severe orthopaedic diseases. 
+The  exclusion  criteria  were  atrial  fibrillation,  a  pace-
+maker  or  implantable  cardioverter-  defibrillator  without  
+sinus rhythm during exercise, a non- identified VT2 and 
+respiratory exchange ratio (RER)<1.10 at peak effort.
+Patient and public involvement
+As  data  were  collected  retrospectively,  there  was  no  
+patient or public involvement in the study.
+Assessments
+The  subjects  underwent  a  clinical  assessment  with  the  
+acquisition  of  demographic  and  anthropometric  vari-
+ables,   clinical   information   about   cardiovascular   risk   
+factors, previous diseases and medication use.
+The tests were conducted without withdrawing cardio-
+vascular medication and were performed on a treadmill 
+(Centurium  200,  Micromed,  Brazil)  using  breath-  by-  
+breath  gas  analysis  (Cortex  Metalyser  3B,  Germany).  
+Symptom- limited maximal exercise testing was performed 
+with  an  individualised  adjusted  ‘ramp  protocol’.  Tread-
+mill speed started at 1.5–3 km/hour without inclination. 
+The load increase rate was linear and adjusted according 
+to  age,  sex  and  disease  severity,  with  a  steeper  speed  
+increase  in  males  and  younger  subjects,  while  a  steeper  
+grade  increase  was  applied  in  older  subjects.  This  load  
+adjustment  in  the  ramp  protocol  was  individualised  to  
+yield  a  fatigue-  limited  exercise  test  with  an  expected  
+duration of 8–12 min.
+21 22
+Variables  from  CPET  were  analysed,  converting  raw  
+data  to  a  9-  breath  moving  average.  Peak  VO
+2
+  (VO
+2peak
+) 
+was the highest 30 s averaged sample obtained from the 
+final  test  minute.  At  the  same  time  frame,  the  highest  
+value  of  RER  and  HR  at  peak  effort  was  considered.  
+Resting HR (HRrest) was obtained by ECG in the seated 
+position before the beginning of CPET and after a total 
+rest time greater than 5 min, considering the preparation 
+for the exam.
+20
+ Predicted HR
+peak
+ was calculated using the 
+Tanaka  equation
+23
+,  and  predicted  VO
+2peak
+  was  based  on  
+Brazilian reference values
+24
+ .
+VTs  were  used  to  define  the  gold-  standard  exercise  
+intensity  domains.  VT1  marks  the  limit  between  light  
+to moderate exercise, and VT2 marks the limit between 
+
+3
+Milani JGPO, et al. BMJ Open Sp Ex Med 2023;9:e001601. doi:10.1136/bmjsem-2023-001601
+Open access
+moderate  to  high-  intensity  effort.
+2  11
+  Individual  deter-
+mination  of  VT1  and  VT2  was  based  on  the  analysis  of  
+the  exercise  ventilation  (VE),  VO
+2
+  and  carbon  dioxide  
+production   (VCO
+2
+)   over   time,   oxygen   and   carbon   
+dioxide  ventilatory  equivalent  (VE/VO
+2
+  and  VE/CO
+2
+) 
+over  time  and  end-  tidal  partial  pressure  for  oxygen  and  
+carbon dioxide (PETO
+2
+ and PETCO
+2
+) over time
+14
+ .
+VT1  was  defined  using  the  V-  slope  method  (VCO
+2
+ 
+vs VO
+2
+ plot) and was double- checked by establishing 
+the  nadir  of  VE/VO
+2
+  and  PETO
+2
+  before  rising
+14
+  in  
+the graphs over time. VT2 was defined using the VE 
+vs  VCO
+2
+  plot  at  the  point  where  VE  increases  out  
+of  proportion  to  VCO
+2
+.  This  threshold  was  double-  
+checked by establishing the nadir of VE/VCO
+2
+ before 
+rising and the highest PETCO
+2
+ before falling.
+14
+ VO
+2
+ 
+and HR were determined at VT1 and VT2 to calculate 
+%VO
+2peak
+, %HR
+peak
+ and %HRR.
+Intensity domains according to international guidelines
+Obtained  HR  and  VO
+2
+  at  VT1  and  VT2  were  individ-
+ually  categorised  in  intensity  domains  according  to  
+CR  guidelines
+2  11  20
+  based  on  %VO
+2peak
+,  %HR
+peak
+  and  
+%HRR  (figure  1).  These  three  methods  report  exer-
+cise  intensity  domains  in  European  and  American  
+guidelines, whereas Brazilian recommendations focus 
+only on HR methods.
+Multivariable equations to predict HR at VTs
+Predictors  were  selected  considering  variables  avail-
+able in an ergometry test. This approach was chosen to 
+create useful equations to predict HR at VT1 and VT2 
+when  CPET  cannot  be  performed.  Thus,  peak  meta-
+bolic  equivalent  (MET
+peak
+)  was  calculated  according  
+to  peak  treadmill  speed  and  inclination
+25
+  and  used  
+as  a  predictor  in  the  regression  analysis  rather  than  
+measured  VO
+2peak
+.  The  other  predictors  tested  were  
+age,  sex,  HR
+peak
+,  HR
+rest
+,  HRR,  beta-  blocker  use  and  
+beta- blockers relative dose (percentual of daily use to 
+the maximal recommended dose).
+26
+Accuracy of prescription methods
+To  evaluate  the  accuracy  of  the  prescription  methods,  
+HR values at VT1 and VT2 were compared with estimated 
+values  of  each  guideline-  directed  recommendation  for  
+moderate intensity domains according to %HR
+peak
+ using 
+measured and predicted HR
+peak.
+23
+ This approach was also 
+used for the equations developed in the study.
+Figure 1 HR at first and second ventilatory threshold (VT1 and VT2) according to obtained percentages of peak oxygen 
+uptake (%VO
+2peak
+), peak HR (%HRpeak) or HR reserve (%HRR) and different exercise intensity domains elicited according 
+to cardiovascular rehabilitation guidelines. Data expressed as violin plots for individual values with vertical lines representing 
+median and IQR values. The percentual number on the line above violin plots expresses the distribution of frequency of 
+occurrence of individual responses in correspondence to recommended exercise intensity domains according to each set of 
+guidelines (Brazilian
+2
+, European
+11
+ and American
+20
+). HR, heart rate.
+
+4
+Milani JGPO, et al. BMJ Open Sp Ex Med 2023;9:e001601. doi:10.1136/bmjsem-2023-001601
+Open access
+Statistical analysis
+Data were expressed as median and IQR or absolute and 
+relative  frequencies.  Normality  was  assessed  using  the  
+Kolmogorov-  Smirnov  test.  Correlations  between  CPET  
+variables   were   calculated   using   Spearman’s   correla-
+tion  test  since  the  data  had  a  non-  normal  distribution.  
+Considering  variables  significantly  correlated  with  HR  
+at  VT1  and  VT2,  we  performed  linear  regressions  with  
+HR
+peak
+  and  multilinear  regressions  with  the  stepwise  
+forward  method.  We  selected  the  equation  with  the  
+highest adjusted r
+2
+ value. Predictors without the ability to 
+increase  r
+2
+  by  at  least  0.01  were  removed  from  the  final  
+equation.
+Accuracy  analysis  was  performed  by  calculating  the  
+mean absolute percentage error (MAPE; mean absolute 
+difference  of  measured  minus  estimated  values  divided  
+by measured values). Lower MAPE values indicate a lower 
+error and greater forecasting accuracy of a model. Statis-
+tical analyses were performed using GraphPad Prism V.9 
+(GraphPad  Software,  San  Diego,  California,  USA)  or  
+IBM- SPSS V.28.0 for Windows. All tests with a significance 
+of p<0.05 were considered statistically significant.
+RESULTS
+Sample and subject characteristics
+A total of 1465 CPETs were considered for eligibility, and 
+972 examinations were included (figure 2). The patients 
+were  mainly  males  (80.8%)  with  a  median  age  of  58  
+(IQR: 50–66). Most patients had coronary artery disease 
+(81.4%),  and  26.6%  had  heart  failure  with  a  reduced  
+ejection fraction (table 1). Median VO
+2peak
+ was 22.1 mL/
+kg/min (IQR: 17.1–27.4), corresponding to 70.7% of the 
+predicted value (IQR: 58.8–83.4) (table 2).
+VT1 and VT2 in relation to guideline-based exercise intensity 
+domains
+VT1   was   determined   at   58.4%   (IQR:   51.9–64.6)   of   
+%VO
+2peak
+, 68.8% (IQR: 63.8–74.7) of %HR
+peak
+ and 39.0% 
+(IQR: 32.9–45.8) of %HRR (table 2). For most patients, 
+this  response  corresponded  to  moderate  intensity  exer-
+cise  based  on  %VO
+2peak
+  according  to  European  and  
+American  guidelines  (91.4%  and  67.3%,  respectively).  
+Regarding  responses  related  to  %HR
+peak
+,  most  patients  
+were performing low- intensity exercise according to the 
+Brazilian  guidelines  (55.5%)  and  moderate  intensity  
+according to European and American guidelines (73.1% 
+and 57.4%, respectively). The responses of most patients 
+corresponded to the low- intensity domain for %HRR in 
+all three sets of guidelines (figure 1).
+VT2  was  determined  at  89.0%  (IQR:  85.0–92.6)  of  
+%VO
+2peak
+, 89.1% (IQR: 85.8–92.2) of %HR
+peak
+ and 78.0% 
+(IQR: 71.6–84.5) of %HRR (table 2). For most patients, 
+these  responses  corresponded  to  very  high  intensity  for  
+%VO
+2peak
+ according to the European guidelines (75.2% 
+of individual responses) and high intensity according to 
+the American guidelines (62.8%). Considering %HR
+peak
+, 
+most    individual    responses    corresponded    to    high-    
+intensity  domains  as  stated  in  the  Brazilian,  European  
+and  American  guidelines  (78.3%,  55.5%  and  93.3%,  
+respectively).  Lastly,  individual  responses  corresponded  
+to  the  moderate  intensity  domain  for  %HRR  according  
+to  the  Brazilian  guidelines  (57.2%)  and  high  intensity  
+according to European and American guidelines (57.4% 
+and 89.0%, respectively) (figure 1).
+HR predictive equations in VTs
+HR    at    VT1    was    strongly    correlated    with    HR
+peak
+ 
+(rho=0.764),  with  the  linear  regression  revealing  a  r
+2
+  of  
+0.593 (figure 3A). The following equation represents this 
+correlation:
+ 
+HRatVT1=(0.4707×HR
+peak
+)+30.62
+  
+(1)
+Also, the linear regression of %HRpeak at VT1 versus 
+HR
+peak
+(figure 3B) revealed that higher values of %HR
+peak
+ 
+at VT1 were associated with lower values of HR
+peak
+.
+Figure 2 Study flow chart.
+
+5
+Milani JGPO, et al. BMJ Open Sp Ex Med 2023;9:e001601. doi:10.1136/bmjsem-2023-001601
+Open access
+HR at VT2 strongly correlated with HR
+peak
+ (rho=0.941), 
+with   the   linear   regression   revealing   a   r
+2
+   of   0.890   
+(figure  3C).  Less  variability  in  %HR
+peak
+  at  VT2  when  
+analysed according to HR
+peak
+ (figure 3D). The following 
+equation represents this correlation:
+ 
+HRatVT2=(0.8544×HR
+peak
+)+4.397
+  
+(2)
+Nearly  all  correlations  between  CPET  variables  and  
+HR at VT1 and VT2 were significant. Thus, multivariable 
+linear  regression  with  predictors  available  in  an  ergom-
+etry test was used to estimate HR at VT1 and VT2, which 
+yielded the following novel equations tailored to patients 
+with CVD with relevant r² values:
+ 
+HR at VT1 = 3.453+(0.887×HR
+peak
+)−(0.555×(HR
+peak
+−HR
+rest
+))+
+(1.044×MET
+peak
+),r
+2
+= 0.726
+ 
+                                                                                         (3)
+ 
+HR at VT2 =−8.256+(0.979×HR
+peak
+)−(0.232×(HR
+peak
+−HR
+rest
+))+
+(1.418×MET
+peak
+),r
+2
+= 0.901
+ 
+                                                                                         (4)
+Of note, beta- blockers use, age and sex were imputed 
+as  predictors  in  the  model  construction;  however,  they  
+did  not  reveal  significant  influences  and  were  removed  
+from the equations.
+Accuracy of prescription methods
+Forecasting  accuracy  was  assessed  using  MAPE  calcula-
+tions  (figure  4).  MAPE  of  the  novel  VT1  equation  was  
+6.0%,  lower  than  values  calculated  using  the  guideline-  
+based   prescription   methods   considering   measured   
+HR
+peak
+   (9.5%–20.0%)   or   predicted   HR
+peak
+   (11.4%–
+23.8%).   MAPE   was   even   lower   for   the   novel   VT2   
+equation (4.3%), which was also lower than values deter-
+mined using the guideline- based methods (5.8%–16.4% 
+for  measured  HR
+peak
+  and  13.7%–19.3%  for  predicted  
+HR
+peak
+).
+Table 1 General characteristics of the study sample
+CharacteristicAll sample (n=972)
+Male785 (80.8%)
+Age, year58 (50, 66)
+Risk factors        
+      Hypertension521 (53.6%)
+      Diabetes  mellitus172 (17.7%)
+        Tobacco use (actual)14 (1.4%)
+Previous cardiovascular disease        
+        Coronary artery disease791 (81.4%)
+      Coronary  angioplasty502 (51.6%)
+      Myocardial  infarction411 (42.3%)
+      Heart  surgery279 (28.7%)
+      Heart  failure259 (26.6%)
+Anthropometry        
+      Weight,  kg77.0 (68.0, 86.6)
+      Height,  m1.70 (1.64, 1.76)
+        Body mass index, kg/m
+2
+26.5 (24.5, 29.2)
+Medications, percentual of use        
+      ACEi/ARB376 (38.7%)
+      Diuretics307 (31.6%)
+      Beta- blockers765 (78.7%)
+      Atenolol98 (10.1%)
+      Bisoprolol240 (24.7%)
+      Carvedilol161 (16.6%)
+      Metoprolol240 (24.7%)
+      Nebivolol20 (2.1%)
+      Propranolol6 (0.6%)
+        Medications’ dose, mg per day        
+      Atenolol50 (25, 50)
+      Bisoprolol2.5 (2.5, 5.0)
+      Carvedilol25 (12.5, 50)
+      Metoprolol50 (25, 100)
+      Nebivolol5.0 (2.5, 5.0)
+      Propranolol80 (80, 80)
+Data expressed as median and IQR or absolute and relative frequencies n 
+(%).
+ACEi/ARB, ACE inhibitors/angiotensin receptor blockers.
+Table 2 Cardiopulmonary exercise test variables of the 
+study sample
+CPET variables
+All sample
+(n=972)
+VO
+2peak
+, mL/kg/min22.1 (17.1, 27.4)
+VO
+2peak
+, percentual of predicted*70.7 (58.8, 83.4)
+HR
+peak
+, bpm144 (125, 160)
+HR
+peak
+, percentual of predicted†89.0 (78.3, 97.5)
+HR
+rest
+, bpm68 (61, 75)
+HRR, bpm76 (57, 91)
+Peak RER1.20 (1.15, 1.27)
+VO
+2
+ at VT1, mL/kg/min12.4 (10.6, 14.5)
+VO
+2
+ at VT1, %VO
+2peak
+58.4 (51.9, 64.6)
+HR at VT1, bpm96 (88, 107)
+HR at VT1, %HR
+peak
+68.8 (63.8, 74.7)
+HR at VT1, %HRR39.0 (32.9, 45.8)
+VO
+2
+ at VT2, mL/kg/min19.1 (15.2, 24.3)
+VO
+2
+ at VT2, %VO
+2peak
+89.0 (85.0, 92.6)
+HR at VT2, bpm125 (109, 142)
+HR at VT2, %HR
+peak
+89.1 (85.8, 92.2)
+HR at VT2, %HRR78.0 (71.6, 84.5)
+Data expressed as median and IQR.
+*According to Brazilian reference values.
+†According to Tanaka et al.
+23
+HR, heart rate; HR
+peak
+, peak heart rate; %HR
+peak
+, percentage of peak HR; 
+%HRR, percentage of HR reserve; HR
+rest
+, rest HR; RER, respiratory exchange 
+ratio; VO
+2
+, oxygen uptake; VO
+2peak
+, peak VO
+2
+; %VO
+2peak
+, percentage of 
+VO
+2peak
+; VT1, first ventilatory threshold; VT2, second VT.
+
+6
+Milani JGPO, et al. BMJ Open Sp Ex Med 2023;9:e001601. doi:10.1136/bmjsem-2023-001601
+Open access
+DISCUSSION
+This  study  reported  results  from  a  large  sample  of  CR  
+patients, in which we found that different guideline- based 
+exercise intensity domains were elicited for the same rela-
+tive level of exercise, whether at VT1 or VT2 (figure 1). 
+Considering  Brazilian,  European  and  American  guide-
+lines, the results corresponded to low to moderate exercise 
+intensity domains for VT1 and to moderate to very high- 
+intensity  exercise  domains  for  VT2.  The  results  showed  
+that the relations between %HRpeak at VTs and HRpeak 
+are  not  constant  (figure  3),  especially  for  VT1,  which  
+mathematically limits the applicability of the prescription 
+methods based on a percentage of peak effort variables. 
+We also offer greater insight into improving CR exercise 
+prescription when CPET is unavailable by providing VT1 
+and  VT2  equations  tailored  to  patients  with  CVD  using  
+variables  assessed  during  an  ergometry  test.  Moreover,  
+MAPE  analyses  revealed  that  the  novel  equations  have  
+greater  accuracy  than  other  methods  generally  used  in  
+CR  to  prescribe  the  exercise  intensity  targets  based  on  
+%HR
+peak
+,  indicating  that  our  proposal  is  the  closest  to  
+metabolic thresholds of CPET (figure 4).
+VT1 and VT2 in relation to guideline-based exercise intensity 
+domains
+The correspondence of different exercise intensity param-
+eters has been studied. Considerable variation is found in 
+recommendation  targets  for  prescription,
+13  16  27–30
+  since  
+the same relative %HR
+peak
+, %HRR and/or %VO
+2peak
+ elic-
+ited different guideline- based exercise intensity domains 
+(which  could  be  considered  low  to  moderate  inten-
+sity  for  VT1  and  moderate  to  high  intensity  for  VT2).  
+Consequently,  an  important  percentage  of  subjects  will  
+be  trained  below  VT1  or  above  VT2  when  HR-  based  
+methods  are  used,  as  demonstrated  by  the  high  disper-
+sion  found  in  the  individual  responses  of  the  patients  
+(figure  1).  Hansen  et  al
+16
+  also  found  considerable  vari-
+ation  in  guideline-  based  exercise  intensity  domains  at  
+the same relative level of exercise, and Díaz- Buschmann 
+et  al
+13
+  pointed  out  the  substantial  interpatient  variance  
+Figure 3 Correlations between heart rate at ventilatory thresholds (VTs) and peak heart rate (HR). (A) Correlation for HR at VT1 
+(expressed as absolute value) and HR
+peak
+; B) correlation for HR at VT1 (expressed as %HRpeak) and HR
+peak
+; C) correlation for 
+HR at VT2 (expressed as absolute value) and HR
+peak
+; D) correlation for HR at VT2 (expressed as %HRpeak) and HR
+peak
+. HR
+peak
+, 
+peak HR; %HRpeak, percentage of HR
+peak
+.
+
+7
+Milani JGPO, et al. BMJ Open Sp Ex Med 2023;9:e001601. doi:10.1136/bmjsem-2023-001601
+Open access
+among patients with CVD about HR- based prescription. 
+These  findings  could  partially  be  explained  by  the  non-  
+linearity  and  high  variability  of  the  relation  between  
+VO
+2
+  and  workload  in  patients  with  CVD,
+31  32
+  chrono-
+tropic incompetence and the use of beta blockers, which 
+influence the relation between HR and VO
+2
+.
+33
+ Addition-
+ally,  Iannetta  et  al
+34
+  recently  reported  that  the  intensity  
+of  exercise  training  during  CR  predicts  the  increase  of  
+MET  peak,  highlighting  that  the  heterogeneity  in  the  
+metabolic stimulus of each exercise session can generate 
+individual variation in training adaptations.
+34–36
+Novel equations for patients with CVD
+This  study  revealed  a  simple  but  crucial  mathematic  
+limitation  inherent  to  the  method  for  seeking  a  fixed  
+percentage  of  peak  parameters  for  prescribing  exercise  
+intensity.  For  example,  if  we  consider  69%  of  HR
+peak
+  as  
+the lower limit of exercise prescription (value for HR at 
+VT1 in our data), we will assume that the equation follows 
+a  linear  equation  (Y=A*X  +B),  in  which  Y=HR  at  VT1,  
+A=0.69, X=HR
+peak
+ and B=0 (HR at VT1=0.69 * HR
+peak
++0). 
+Thus,  the  mathematical  concept  suggests  that  the  rela-
+tion between HR at VT1 and HR
+peak
+ (or Y/X) is constant 
+when plotted against HR
+peak
+ (or X). In other words, when 
+using the %HR
+peak
+ method, we assume that intercept (B) 
+equals  zero  without  considering  any  correction  for  the  
+data dispersion.
+However, when we analyse the plotted curve of our data 
+(figure  3A),  we  observe  that  the  intercept  (B)  is  30.62,  
+strongly  different  from  zero.  Moreover,  the  coefficient  
+(A) is 0.4707, which is also very different from the value 
+considered for moderate- intensity exercise in the guide-
+lines  (Brazilian:  0.70;  European:  0.55;  American:  0.64).  
+We also noticed a significant association between higher 
+values  of  %HR
+peak
+  at  VT1  and  lower  HRpeak  values  
+(figure  3B).  Regarding  VT2,  our  intercept  (B)  is  much  
+more like previously assumed values (4.397 vs 0), and the 
+same is true for the coefficient (A) (0.8544 vs Brazilian: 
+0.85; European: 0.7; American: 0.76).
+Thus,   applying   this   simple   math   problem   to   the   
+real  world,  we  can  see  that  the  widely  used  method  of  
+prescribing   exercise   intensity   according   to   percent-
+ages  of  HR
+peak
+  has  an  important  limitation.  The  greater  
+observed  error  can  be  related  to  the  method  itself  and  
+not the percentage values, as we cannot assume that the 
+intercept  of  the  equation  is  zero,  especially  concerning  
+VT1, which is considered the lower limit for a moderate- 
+intensity exercise prescription.
+Accuracy of prescription methods
+Another important contribution of this study is the accu-
+racy  approach  by  MAPE,  in  which  lower  values  indicate  
+greater forecasting accuracy of a model. MAPE of the VT1 
+equation was 6.0%, lower than guideline- based prescrip-
+tion  methods  (9.5%–23.8%).  Moreover,  the  MAPE  for  
+the  VT2  equation  was  4.3%,  which  was  also  lower  than  
+guideline-  based  methods  (5.8%–19.3%).  These  results  
+suggested  that  the  novel  equations  can  be  used  as  an  
+alternative  for  patients  with  CVD,  defining  an  intensity  
+closer  to  the  parameter  determined  by  the  CPET.  The  
+approach  by  MAPE  was  recently  also  used  in  a  study  
+comparing the accuracy of different predictive equations 
+Figure 4 Forecasting accuracy calculated by mean absolute percentage error of exercise prescription using indirect methods 
+for first and second ventilatory thresholds. Gold standard (MAPE equals zero) considered ventilatory thresholds identified by 
+cardiopulmonary exercise testing. Guideline references: Brazilian
+2
+, European
+11
+ and American.
+20
+ %HRpeak, percentage of peak 
+heart rate, measured or predicted; MAPE, mean absolute percentage error.
+
+8
+Milani JGPO, et al. BMJ Open Sp Ex Med 2023;9:e001601. doi:10.1136/bmjsem-2023-001601
+Open access
+applied to CR.
+32
+ The reported MAPE for VT1 estimation 
+ranged from 11.3 to 16.5% in patients with heart failure.
+Clinical implications
+Similarly  to  others,
+13  16  17
+  our  study  has  demonstrated  
+that  currently  employed  methods  using  percentages  of  
+peak  exercise  (‘range-  based’  approach)  can  be  inac-
+curate  for  exercise  intensity  prescription,  which  may  
+influence  clinical  outcomes.  Hence,  the  HR  predictive  
+equations  proposed  in  this  study,  primarily  developed  
+for VTs identification and using parameters available on 
+the  ergometry  test,  recognised  as  a  minimum  standard,  
+demonstrated  higher  r
+2
+  and  a  lower  error  measured  by  
+MAPE than previously adopted indirect methods.
+Thus, this new approach has great clinical applicability 
+and may be a useful alternative when only an ergometry 
+test is available, providing an indirect prescription closer 
+to  VTs  of  the  CPET,  which  remains  the  gold-  standard  
+method.
+Limitations
+First,  although  including  a  large  sample,  the  data  were  
+provided  from  a  single  centre.  However,  our  sample  is  
+from  Brasilia  (the  capital  of  Brazil).  It  may  constitute  
+casual  pooled  data  from  different  Brazilian  regions  as  
+the area received intense migration in the mid- 1960s due 
+to the relocation of the capital, as previously reported.
+24
+ 
+External  validity  in  other  population  samples  remains  
+to  be  tested  to  assure  international  applicability.  Lastly,  
+our study only included data from CPET performed on a 
+treadmill; thus, our equations may not apply to exercise 
+tests obtained from cycle ergometers.
+CONCLUSION
+The analysis of guideline- based exercise intensity domains 
+for CR revealed inconsistencies and heterogeneity among 
+current    international    guidelines    recommendations,    
+which limits usually used methods since the dispersion of 
+individual data is considerable. Our results demonstrated 
+that prescribing exercise intensity according to percent-
+ages of HR
+peak
+ has an important mathematical limitation 
+related  to  the  method  itself.  Novel  equations  tailored  
+to  patients  with  CVD  were  developed,  which  revealed  
+greater accuracy than other indirect methods, indicating 
+that  this  methodology  may  be  a  valid  alternative  when  
+CPET is unavailable.
+Acknowledgements We would like to thank the laboratory staff, the University of 
+Brasilia, primary physicians and other health professionals who referred patients 
+for CPET assessment.
+Contributors JGPOM: guarantor, conception and design, acquisition of data, 
+analysis and interpretation of the results, drafted the article; MM: conception and 
+design, acquisition of data, analysis and interpretation of the results, revised it 
+critically; GFBC: conception and design, revised it critically; DH: conception and 
+design, interpretation of data, revised it critically, supervision; GCJ: conception 
+and design, analysis and interpretation of data, revised it critically, supervision. 
+All authors gave final approval of the version to be published and agreed to be 
+responsible for all aspects of the research.
+Funding Financial support for this work was partially provided by public 
+research grants and scholarships from Brazilian fostering agencies: Coordenação 
+de Aperfeiçoamento de Pessoal de Nível Superior (CAPES (Coordination for 
+the Advancement of Higher Education Personnel)), Conselho Nacional de 
+Desenvolvimento Científico e Tecnológico (CNPq (National Council of Scientific 
+and Technological Development)), and Fundação de Apoio à Pesquisa do Distrito 
+Federal (FAPDF (Federal District Research Foundation)). This study was also 
+supported by the Special Research Fund (BOF) from Hasselt University/Belgium. 
+Number: BOF23DOCBL10 and BOF23KV10.
+Competing interests None declared.
+Patient and public involvement Patients and/or the public were not involved in 
+the design, or conduct, or reporting, or dissemination plans of this research.
+Patient consent for publication Not applicable.
+Ethics approval This study involves human participants and was approved 
+by Ethics Commitee from University of Brasilia. CAAE: 35706720.4.0000.8093. 
+Informed consent was waived since the data were collected retrospectively.
+Provenance and peer review Not commissioned; externally peer reviewed.
+Data availability statement All data relevant to the study are included in the 
+article.
+Open access This is an open access article distributed in accordance with the 
+Creative Commons Attribution Non Commercial (CC BY- NC 4.0) license, which 
+permits others to distribute, remix, adapt, build upon this work non- commercially, 
+and license their derivative works on different terms, provided the original work is 
+properly cited, appropriate credit is given, any changes made indicated, and the 
+use is non- commercial. See: http://creativecommons.org/licenses/by-nc/4.0/.
+ORCID iDs
+Juliana Goulart Prata Oliveira Milani http://orcid.org/0000-0002-7062-2708
+Mauricio Milani http://orcid.org/0000-0003-3688-2108
+Graziella França Bernardelli Cipriano http://orcid.org/0000-0001-9560-6520
+Dominique Hansen http://orcid.org/0000-0003-3074-2737
+Gerson Cipriano Junior http://orcid.org/0000-0001-6323-7003
+REFERENCES
+   1 Piepoli MF, Hoes AW, Agewall S, et al. 2016 European guidelines on 
+cardiovascular disease prevention in clinical practice: the sixth joint 
+task force of the European society of cardiology and other societies 
+on cardiovascular disease prevention in clinical practice (constituted 
+by representatives of 10 societies and by invited experts): developed 
+with the special contribution of the European Association for 
+cardiovascular prevention & rehabilitation (EACPR). Eur J Prev 
+Cardiol 2016;23:1–96. 
+   2 Carvalho T, Milani M, Ferraz AS. Diretriz brasileira de reabilitacao 
+cardiovascular - 2020. Arq Bras Cardiol 2020;114:943–87. 
+   3 Mezzani A, Hamm LF, Jones AM, et al. Aerobic exercise intensity 
+assessment and prescription in cardiac rehabilitation: a joint position 
+statement of the European Association for cardiovascular prevention 
+and rehabilitation, the American Association of cardiovascular and 
+pulmonary rehabilitation and the Canadian Association of cardiac 
+rehabilitation. Eur J Prev Cardiol 2013;20:442–67. 
+   4 Fletcher GF, Ades PA, Kligfield P, et al. Exercise standards for 
+testing and training: a scientific statement from the American heart 
+association. Circulation 2013;128:873–934. 
+   5 Ambrosetti M, Abreu A, Corra U, et al. Secondary prevention through 
+comprehensive cardiovascular rehabilitation: from knowledge to 
+implementation. Eur J Prev Cardiol 2020;28:460–95.
+   6 Anderson L, Oldridge N, Thompson DR, et al.  Exercise- based 
+cardiac rehabilitation for coronary heart disease: Cochrane 
+systematic review and meta- analysis. J Am Coll Cardiol 
+2016;67:1–12. 
+   7 Taylor RS, Sagar VA, Davies EJ, et al. Exercise- based rehabilitation 
+for heart failure. Cochrane Database Syst Rev 2014;2014. 
+   8 Salzwedel A, Jensen K, Rauch B, et al. Effectiveness of 
+comprehensive cardiac rehabilitation in coronary artery disease 
+patients treated according to contemporary evidence based 
+medicine: update of the cardiac rehabilitation outcome study 
+(CROS- II). Eur J Prev Cardiol 2020;27:1756–74. 
+   9 Long L, Mordi IR, Bridges C, et al. Exercise- based cardiac 
+rehabilitation for adults with heart failure. Cochrane Database Syst 
+Rev 2019;1. 
+ 10 Rauch B, Davos CH, Doherty P, et al. The prognostic effect of 
+cardiac rehabilitation in the era of acute revascularisation and statin 
+therapy: a systematic review and meta- analysis of randomized and 
+non- randomized studies - the cardiac rehabilitation outcome study 
+(CROS). Eur J Prev Cardiol 2016;23:1914–39. 
+
+9
+Milani JGPO, et al. BMJ Open Sp Ex Med 2023;9:e001601. doi:10.1136/bmjsem-2023-001601
+Open access
+ 11 Hansen D, Abreu A, Ambrosetti M, et al. Exercise intensity 
+assessment and prescription in cardiovascular rehabilitation and 
+beyond: why and how: a position statement from the secondary 
+prevention and rehabilitation section of the European association of 
+preventive cardiology. Eur J Prev Cardiol 2022;29:230–45. 
+ 12 Hansen D, Stevens A, Eijnde BO, et al. Endurance exercise intensity 
+determination in the rehabilitation of coronary artery disease 
+patients: a critical re- appraisal of current evidence. Sports Med 
+2012;42:11–30. 
+ 13 Díaz- Buschmann I, Jaureguizar KV, Calero MJ, et al. Programming 
+exercise intensity in patients on beta- blocker treatment: the 
+importance of choosing an appropriate method. Eur J Prev Cardiol 
+2014;21:1474–80. 
+ 14 D’Ascenzi F, Cavigli L, Pagliaro A, et al. Clinician approach to 
+cardiopulmonary exercise testing for exercise prescription in patients 
+at risk of and with cardiovascular disease. Br J Sports Med 2022. 
+ 15 Mezzani A, Hamm LF, Jones AM, et al. Aerobic exercise intensity 
+assessment and prescription in cardiac rehabilitation: a joint 
+position statement of the European Association for cardiovascular 
+prevention and rehabilitation, the American Association of 
+cardiovascular and pulmonary rehabilitation, and the Canadian 
+Association of cardiac rehabilitation. J Cardiopulm Rehabil Prev 
+2012;32:327–50. 
+ 16 Hansen D, Bonné K, Alders T, et al. Exercise training intensity 
+determination in cardiovascular rehabilitation: should the guidelines 
+be reconsidered? Eur J Prev Cardiol 2019;26:1921–8. 
+ 17 Pymer S, Nichols S, Prosser J, et al. Does exercise prescription 
+based on estimated heart rate training zones exceed the ventilatory 
+anaerobic threshold in patients with coronary heart disease 
+undergoing usual- care cardiovascular rehabilitation? A United 
+Kingdom perspective. Eur J Prev Cardiol 2020;27:579–89. 
+ 18 Scharhag- Rosenberger F, Meyer T, Gässler N, et al. Exercise at 
+given percentages of Vo2Max: heterogeneous metabolic responses 
+between individuals. J Sci Med Sport 2010;13:74–9. 
+ 19 Jamnick NA, Pettitt RW, Granata C, et al. An examination and 
+critique of current methods to determine exercise intensity. Sports 
+Med 2020;50:1729–56. 
+ 20 Liguori G. ACSM’s guidelines for exercise testing and 
+prescription.10th edition. Philadelphia: Lippincott Williams & Wilkins, 
+2017.
+ 21 Herdy AH, Ritt LE, Stein R, et al. Teste cardiopulmonar de exercício: 
+fundamentos, aplicabilidade E interpretação. Arq Bras Cardiol 
+2016;107:467–81.
+ 22 Meneghelo RS, Araújo CGS, Stein R. III Diretrizes DA sociedade 
+brasileira de cardiologia sobre teste ergométrico. Arq Bras Cardiol 
+2010;95:1–26. 
+ 23 Tanaka H, Monahan KD, Seals DR. Age- predicted maximal heart rate 
+revisited. J Am Coll Cardiol 2001;37:153–6. 
+ 24 Milani M, Milani J, Cipriano GFB, et al. Reference standards for 
+cardiorespiratory fitness in Brazil: a pooled analysis and overview 
+of heterogenity in national and international studies. J Cardiopulm 
+Rehabil Prev 2022;42:366–72. 
+ 25 Kokkinos P, Kaminsky LA, Arena R, et al. New generalized equation 
+for predicting maximal oxygen uptake (from the fitness Registry 
+and the importance of exercise national database). Am J Cardiol 
+2017;120:688–92. 
+ 26 McDonagh TA, Metra M, Adamo M, et al. 2021 ESC guidelines for 
+the diagnosis and treatment of acute and chronic heart failure. Eur 
+Heart J 2021;42:3599–726. 
+ 27 Price KJ, Gordon BA, Bird SR, et al. A review of guidelines for 
+cardiac rehabilitation exercise programmes: is there an international 
+consensus? Eur J Prev Cardiol 2016;23:1715–33. 
+ 28 Nieuwland W, Berkhuysen MA, Van Veldhuisen DJ, et al. Individual 
+assessment of intensity- level for exercise training in patients with 
+coronary artery disease is necessary. Int J Cardiol 2002;84:15–20. 
+ 29 Chaloupka V, Elbl L, Nehyba S, et al. Exercise intensity prescription 
+after myocardial infarction in patients treated with beta- blockers. J 
+Cardiopulm Rehabil 2005;25:361–5. 
+ 30 Tabet J- Y, Meurin P, Ben Driss A, et al. Determination of exercise 
+training heart rate in patients on beta- blockers after myocardial 
+infarction. Eur J Cardiovasc Prev Rehabil 2006;13:538–43. 
+ 31 Guazzi M, Adams V, Conraads V, et al. EACPR/AHA joint scientific 
+statement. clinical recommendations for cardiopulmonary exercise 
+testing data assessment in specific patient populations. Eur Heart J 
+2012;33:2917–27. 
+ 32 Guazzi M, Bandera F, Ozemek C, et al. Cardiopulmonary exercise 
+testing: what is its value? J Am Coll Cardiol 2017;70:1618–36. 
+ 33 Squires RW, Kaminsky LA, Porcari JP, et al. Progression of exercise 
+training in early outpatient cardiac rehabilitation: an official statement 
+from the American association of cardiovascular and pulmonary 
+rehabilitation. J Cardiopulm Rehabil Prev 2018;38:139–46. 
+ 34 Iannetta D, Rouleau CR, Chirico D, et al. An evaluation of the role 
+of the exercise training dose for changes in exercise capacity 
+following a standard cardiac rehabilitation program. Int J Cardiol 
+2023;379:104–10. 
+ 35 Mann TN, Lamberts RP, Lambert MI. High responders and low 
+responders: factors associated with individual variation in response 
+to standardized training. Sports Med 2014;44:1113–24. 
+ 36 Wolpern AE, Burgos DJ, Janot JM, et al. Is a threshold- based model 
+a superior method to the relative percent concept for establishing 
+individual exercise intensity? A randomized controlled trial. BMC 
+Sports Sci Med Rehabil 2015;7:16. 
